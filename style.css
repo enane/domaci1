@@ -1,0 +1,27 @@
+tr:nth-child(even) {
+    background-color:#E9ECEF;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    border: 1px solid #dddddd;
+}
+
+tr{
+    text-align: center;
+}
+
+.naslov{
+    color: #E9ECEF;
+    font-size: 28px;
+    text-align: center;
+}
+
+.tabela{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
